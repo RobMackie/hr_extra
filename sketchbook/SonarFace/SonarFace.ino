@@ -80,7 +80,7 @@ int test_hit()
          sum++;
        }
     }
-    if (sum > 2) {
+    if (sum > 3) {
        return (1);
     }
     return (0);
