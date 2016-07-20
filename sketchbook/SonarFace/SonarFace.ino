@@ -25,7 +25,7 @@ int top = 180;
 int bottom = 0;
 int pos = 0;
 
-#define NEAR 20
+#define NEAR 10
 #define FAR 60
 
 #define TRIGGER_PIN  12  // Arduino pin tied to trigger pin on the ultrasonic sensor.
